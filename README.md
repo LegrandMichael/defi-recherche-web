@@ -10,3 +10,9 @@
 
  http://www.commentcamarche.net/contents/479-histoire-d-internet
 
+- Quelle est la différence entre le Web et Internet ?
+
+Le Web (abréviation de WWW World Wide Web, toile mondiale en français) est une application d'Internet, tandis qu'Internet est un réseau qui interconnecte les machines dans le monde 
+
+Sources : https://www.gralon.net/articles/internet-et-webmaster/logiciel/article-quelle-est-la-difference-entre-web-et-internet--8644.htm
+
