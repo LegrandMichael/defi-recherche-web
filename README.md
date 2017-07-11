@@ -16,3 +16,12 @@ Le Web (abréviation de WWW World Wide Web, toile mondiale en français) est une
 
 Sources : https://www.gralon.net/articles/internet-et-webmaster/logiciel/article-quelle-est-la-difference-entre-web-et-internet--8644.htm
 
+- Qu’est-ce que cela :
+8.8.8.8 : Une des adresses DNS de Google
+192.168.0.1 : Adresse IP par défaut des routeurs
+255.255.255.0 : Adresse la plus commune de masque de sous réseaux
+127.0.0.1 : Adresse locale (localhost, LoopBack)
+
+Sources : 
+
+Connaissances personnelles
